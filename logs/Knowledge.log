@@ -1,0 +1,595 @@
+2025-08-21 10:10:40,553 - Knowledge - INFO - Redis support added with prefix knowledge:b2032ps:
+2025-08-21 10:10:40,571 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-21 10:10:40,571 - Knowledge - INFO - load persisted knowledge: end
+2025-08-21 10:10:40,571 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-21 10:10:40,571 - Knowledge - INFO - load persisted docinfo: end
+2025-08-21 10:10:40,783 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-21 10:10:40,783 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-21 10:10:40,784 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.css from ingest queue
+2025-08-21 10:10:40,792 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.css
+2025-08-21 10:10:40,793 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:40,793 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:40,793 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.css
+2025-08-21 10:10:40,806 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.css to ingest queue
+2025-08-21 10:10:40,806 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/NotFound.js from ingest queue
+2025-08-21 10:10:40,827 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/NotFound.js
+2025-08-21 10:10:40,828 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:40,828 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:40,828 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/NotFound.js
+2025-08-21 10:10:40,842 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/NotFound.js to ingest queue
+2025-08-21 10:10:40,843 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Home.js from ingest queue
+2025-08-21 10:10:40,863 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Home.js
+2025-08-21 10:10:40,864 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:40,864 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:40,864 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Home.js
+2025-08-21 10:10:40,879 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Home.js to ingest queue
+2025-08-21 10:10:40,879 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Legal.js from ingest queue
+2025-08-21 10:10:40,900 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Legal.js
+2025-08-21 10:10:40,901 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:40,901 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:40,901 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Legal.js
+2025-08-21 10:10:40,915 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Legal.js to ingest queue
+2025-08-21 10:10:40,915 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Appointment.js from ingest queue
+2025-08-21 10:10:40,937 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Appointment.js
+2025-08-21 10:10:40,938 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:40,938 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:40,938 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Appointment.js
+2025-08-21 10:10:40,951 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Appointment.js to ingest queue
+2025-08-21 10:10:40,951 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Scripts/reviews.js from ingest queue
+2025-08-21 10:10:40,975 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Scripts/reviews.js
+2025-08-21 10:10:40,975 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:40,976 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:40,976 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Scripts/reviews.js
+2025-08-21 10:10:40,989 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Scripts/reviews.js to ingest queue
+2025-08-21 10:10:40,990 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Doctors.css from ingest queue
+2025-08-21 10:10:40,993 - Knowledge - INFO - worker kw2 created with dedicated MongoDB connection (total: 2)
+2025-08-21 10:10:40,993 - Knowledge - INFO - knowledge worker kw2 start
+2025-08-21 10:10:40,993 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Reviews.css from ingest queue
+2025-08-21 10:10:40,995 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Doctors.css
+2025-08-21 10:10:40,996 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:40,996 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:40,996 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Doctors.css
+2025-08-21 10:10:41,001 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Reviews.css
+2025-08-21 10:10:41,012 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,013 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,013 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Reviews.css
+2025-08-21 10:10:41,027 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Doctors.css to ingest queue
+2025-08-21 10:10:41,027 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Navbar.css from ingest queue
+2025-08-21 10:10:41,028 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Reviews.css to ingest queue
+2025-08-21 10:10:41,029 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Hero.css from ingest queue
+2025-08-21 10:10:41,033 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Navbar.css
+2025-08-21 10:10:41,034 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,035 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,035 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Navbar.css
+2025-08-21 10:10:41,037 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Hero.css
+2025-08-21 10:10:41,051 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,051 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,051 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Hero.css
+2025-08-21 10:10:41,051 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Navbar.css to ingest queue
+2025-08-21 10:10:41,052 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/About.css from ingest queue
+2025-08-21 10:10:41,058 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/About.css
+2025-08-21 10:10:41,069 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,069 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,069 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/About.css
+2025-08-21 10:10:41,083 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Hero.css to ingest queue
+2025-08-21 10:10:41,083 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Info.css from ingest queue
+2025-08-21 10:10:41,084 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/About.css to ingest queue
+2025-08-21 10:10:41,084 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/AppointmentForm.css from ingest queue
+2025-08-21 10:10:41,088 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/AppointmentForm.css
+2025-08-21 10:10:41,089 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Info.css
+2025-08-21 10:10:41,090 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,090 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,090 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/AppointmentForm.css
+2025-08-21 10:10:41,106 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,107 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,107 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Info.css
+2025-08-21 10:10:41,121 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/AppointmentForm.css to ingest queue
+2025-08-21 10:10:41,121 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Footer.css from ingest queue
+2025-08-21 10:10:41,122 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Info.css to ingest queue
+2025-08-21 10:10:41,123 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/BookAppointment.css from ingest queue
+2025-08-21 10:10:41,127 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Footer.css
+2025-08-21 10:10:41,127 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/BookAppointment.css
+2025-08-21 10:10:41,130 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,130 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,130 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/BookAppointment.css
+2025-08-21 10:10:41,144 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,144 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,144 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Footer.css
+2025-08-21 10:10:41,158 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/BookAppointment.css to ingest queue
+2025-08-21 10:10:41,158 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/LegalDocs.css from ingest queue
+2025-08-21 10:10:41,158 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Footer.css to ingest queue
+2025-08-21 10:10:41,158 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/index.js from ingest queue
+2025-08-21 10:10:41,163 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/LegalDocs.css
+2025-08-21 10:10:41,164 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,164 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,164 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/LegalDocs.css
+2025-08-21 10:10:41,177 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/LegalDocs.css to ingest queue
+2025-08-21 10:10:41,177 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/AppointmentForm.js from ingest queue
+2025-08-21 10:10:41,180 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/index.js
+2025-08-21 10:10:41,181 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,181 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,181 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/index.js
+2025-08-21 10:10:41,194 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/index.js to ingest queue
+2025-08-21 10:10:41,195 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Doctors.js from ingest queue
+2025-08-21 10:10:41,198 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/AppointmentForm.js
+2025-08-21 10:10:41,200 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,200 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,200 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/AppointmentForm.js
+2025-08-21 10:10:41,205 - Knowledge - INFO - worker kw3 created with dedicated MongoDB connection (total: 3)
+2025-08-21 10:10:41,205 - Knowledge - INFO - knowledge worker kw3 start
+2025-08-21 10:10:41,215 - Knowledge - INFO - worker kw3 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Footer.js from ingest queue
+2025-08-21 10:10:41,217 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/AppointmentForm.js to ingest queue
+2025-08-21 10:10:41,217 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Navbar.js from ingest queue
+2025-08-21 10:10:41,220 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Doctors.js
+2025-08-21 10:10:41,221 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,221 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,221 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Doctors.js
+2025-08-21 10:10:41,236 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Doctors.js to ingest queue
+2025-08-21 10:10:41,237 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Hero.js from ingest queue
+2025-08-21 10:10:41,238 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Footer.js
+2025-08-21 10:10:41,239 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,239 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,239 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Footer.js
+2025-08-21 10:10:41,240 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Navbar.js
+2025-08-21 10:10:41,255 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,255 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,255 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Navbar.js
+2025-08-21 10:10:41,259 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Hero.js
+2025-08-21 10:10:41,268 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Footer.js to ingest queue
+2025-08-21 10:10:41,269 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,269 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,269 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Hero.js
+2025-08-21 10:10:41,282 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Navbar.js to ingest queue
+2025-08-21 10:10:41,282 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/DoctorCard.js from ingest queue
+2025-08-21 10:10:41,283 - Knowledge - INFO - worker kw3 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Info.js from ingest queue
+2025-08-21 10:10:41,284 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Hero.js to ingest queue
+2025-08-21 10:10:41,284 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/About.js from ingest queue
+2025-08-21 10:10:41,300 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Info.js
+2025-08-21 10:10:41,300 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/DoctorCard.js
+2025-08-21 10:10:41,301 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,301 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,301 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Info.js
+2025-08-21 10:10:41,313 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,313 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,313 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/DoctorCard.js
+2025-08-21 10:10:41,325 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/About.js
+2025-08-21 10:10:41,326 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Info.js to ingest queue
+2025-08-21 10:10:41,326 - Knowledge - INFO - worker kw3 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/InformationCard.js from ingest queue
+2025-08-21 10:10:41,326 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/DoctorCard.js to ingest queue
+2025-08-21 10:10:41,326 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SubscribeNewsletter.js from ingest queue
+2025-08-21 10:10:41,327 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,327 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,327 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/About.js
+2025-08-21 10:10:41,339 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/About.js to ingest queue
+2025-08-21 10:10:41,340 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Reviews.js from ingest queue
+2025-08-21 10:10:41,343 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SubscribeNewsletter.js
+2025-08-21 10:10:41,344 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/InformationCard.js
+2025-08-21 10:10:41,344 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,344 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,344 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SubscribeNewsletter.js
+2025-08-21 10:10:41,357 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,357 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,357 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/InformationCard.js
+2025-08-21 10:10:41,357 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SubscribeNewsletter.js to ingest queue
+2025-08-21 10:10:41,357 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/BookAppointment.js from ingest queue
+2025-08-21 10:10:41,360 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Reviews.js
+2025-08-21 10:10:41,369 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,370 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,370 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Reviews.js
+2025-08-21 10:10:41,376 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/BookAppointment.js
+2025-08-21 10:10:41,383 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/InformationCard.js to ingest queue
+2025-08-21 10:10:41,383 - Knowledge - INFO - worker kw3 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SolutionStep.js from ingest queue
+2025-08-21 10:10:41,383 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,384 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,384 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/BookAppointment.js
+2025-08-21 10:10:41,385 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Reviews.js to ingest queue
+2025-08-21 10:10:41,385 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/LegalDocs.js from ingest queue
+2025-08-21 10:10:41,401 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/BookAppointment.js to ingest queue
+2025-08-21 10:10:41,401 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.js from ingest queue
+2025-08-21 10:10:41,406 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SolutionStep.js
+2025-08-21 10:10:41,408 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,408 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,408 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SolutionStep.js
+2025-08-21 10:10:41,408 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/LegalDocs.js
+2025-08-21 10:10:41,418 - Knowledge - INFO - worker kw4 created with dedicated MongoDB connection (total: 4)
+2025-08-21 10:10:41,419 - Knowledge - INFO - knowledge worker kw4 start
+2025-08-21 10:10:41,428 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,429 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,429 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/LegalDocs.js
+2025-08-21 10:10:41,430 - Knowledge - INFO - worker kw4 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/README.md from ingest queue
+2025-08-21 10:10:41,432 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.js
+2025-08-21 10:10:41,435 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/README.md
+2025-08-21 10:10:41,446 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SolutionStep.js to ingest queue
+2025-08-21 10:10:41,447 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,447 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,447 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.js
+2025-08-21 10:10:41,447 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,448 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,448 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/README.md
+2025-08-21 10:10:41,448 - Knowledge - INFO - worker kw3 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/package.json from ingest queue
+2025-08-21 10:10:41,449 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/LegalDocs.js to ingest queue
+2025-08-21 10:10:41,454 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/package.json
+2025-08-21 10:10:41,482 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/robots.txt from ingest queue
+2025-08-21 10:10:41,482 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,483 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,483 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/package.json
+2025-08-21 10:10:41,484 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.js to ingest queue
+2025-08-21 10:10:41,484 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/README.md to ingest queue
+2025-08-21 10:10:41,490 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/robots.txt
+2025-08-21 10:10:41,503 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/index.html from ingest queue
+2025-08-21 10:10:41,504 - Knowledge - INFO - worker kw4 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.css from ingest queue
+2025-08-21 10:10:41,504 - Knowledge - INFO - Thread kw4 - File App.css - Remaining files in queue: 32
+2025-08-21 10:10:41,504 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.css
+2025-08-21 10:10:41,504 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,505 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,505 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/robots.txt
+2025-08-21 10:10:41,505 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/package.json to ingest queue
+2025-08-21 10:10:41,505 - Knowledge - INFO - worker kw3 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/NotFound.js from ingest queue
+2025-08-21 10:10:41,505 - Knowledge - INFO - Thread kw3 - File NotFound.js - Remaining files in queue: 32
+2025-08-21 10:10:41,505 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/NotFound.js
+2025-08-21 10:10:41,507 - Knowledge - INFO - Fast-track processing for simple file: /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.css
+2025-08-21 10:10:41,507 - Knowledge - INFO - done fast ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.css
+2025-08-21 10:10:41,507 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.css
+2025-08-21 10:10:41,507 - Knowledge - INFO - Fast-track processing for simple file: /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/NotFound.js
+2025-08-21 10:10:41,508 - Knowledge - INFO - done fast ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/NotFound.js
+2025-08-21 10:10:41,512 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/index.html
+2025-08-21 10:10:41,523 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,524 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,524 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.css
+2025-08-21 10:10:41,524 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,524 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,524 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/index.html
+2025-08-21 10:10:41,524 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/robots.txt to ingest queue
+2025-08-21 10:10:41,524 - Knowledge - INFO - worker kw1 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Home.js from ingest queue
+2025-08-21 10:10:41,524 - Knowledge - INFO - Thread kw1 - File Home.js - Remaining files in queue: 32
+2025-08-21 10:10:41,524 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Home.js
+2025-08-21 10:10:41,527 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/NotFound.js
+2025-08-21 10:10:41,570 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,571 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,571 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/NotFound.js
+2025-08-21 10:10:41,571 - Knowledge - INFO - adding /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/index.html to ingest queue
+2025-08-21 10:10:41,571 - Knowledge - INFO - worker kw4 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Legal.js from ingest queue
+2025-08-21 10:10:41,571 - Knowledge - INFO - Thread kw4 - File Legal.js - Remaining files in queue: 32
+2025-08-21 10:10:41,572 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Legal.js
+2025-08-21 10:10:41,572 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Appointment.js from ingest queue
+2025-08-21 10:10:41,572 - Knowledge - INFO - Thread kw2 - File Appointment.js - Remaining files in queue: 31
+2025-08-21 10:10:41,573 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Appointment.js
+2025-08-21 10:10:41,573 - Knowledge - INFO - Fast-track processing for simple file: /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Legal.js
+2025-08-21 10:10:41,573 - Knowledge - INFO - done fast ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Legal.js
+2025-08-21 10:10:41,574 - Knowledge - INFO - Fast-track processing for simple file: /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Appointment.js
+2025-08-21 10:10:41,574 - Knowledge - INFO - done fast ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Appointment.js
+2025-08-21 10:10:41,589 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Appointment.js
+2025-08-21 10:10:41,590 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Legal.js
+2025-08-21 10:10:41,593 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,593 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,593 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Appointment.js
+2025-08-21 10:10:41,593 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:41,594 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:41,594 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Legal.js
+2025-08-21 10:10:41,594 - Knowledge - INFO - worker kw3 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Scripts/reviews.js from ingest queue
+2025-08-21 10:10:41,594 - Knowledge - INFO - Thread kw3 - File reviews.js - Remaining files in queue: 30
+2025-08-21 10:10:41,594 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Scripts/reviews.js
+2025-08-21 10:10:41,636 - Knowledge - INFO - worker kw5 created with dedicated MongoDB connection (total: 5)
+2025-08-21 10:10:41,637 - Knowledge - INFO - knowledge worker kw5 start
+2025-08-21 10:10:41,651 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Doctors.css from ingest queue
+2025-08-21 10:10:41,651 - Knowledge - INFO - Thread kw2 - File Doctors.css - Remaining files in queue: 29
+2025-08-21 10:10:41,651 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Doctors.css
+2025-08-21 10:10:41,651 - Knowledge - INFO - worker kw5 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Reviews.css from ingest queue
+2025-08-21 10:10:41,651 - Knowledge - INFO - Thread kw5 - File Reviews.css - Remaining files in queue: 28
+2025-08-21 10:10:41,652 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Reviews.css
+2025-08-21 10:10:41,652 - Knowledge - INFO - worker kw4 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Navbar.css from ingest queue
+2025-08-21 10:10:41,652 - Knowledge - INFO - Thread kw4 - File Navbar.css - Remaining files in queue: 27
+2025-08-21 10:10:41,652 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Navbar.css
+2025-08-21 10:10:41,848 - Knowledge - INFO - worker kw6 created with dedicated MongoDB connection (total: 6)
+2025-08-21 10:10:41,849 - Knowledge - INFO - knowledge worker kw6 start
+2025-08-21 10:10:41,850 - Knowledge - INFO - worker kw6 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Hero.css from ingest queue
+2025-08-21 10:10:41,850 - Knowledge - INFO - Thread kw6 - File Hero.css - Remaining files in queue: 26
+2025-08-21 10:10:41,850 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Hero.css
+2025-08-21 10:10:42,060 - Knowledge - INFO - worker kw7 created with dedicated MongoDB connection (total: 7)
+2025-08-21 10:10:42,061 - Knowledge - INFO - knowledge worker kw7 start
+2025-08-21 10:10:42,061 - Knowledge - INFO - worker kw7 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/About.css from ingest queue
+2025-08-21 10:10:42,061 - Knowledge - INFO - Thread kw7 - File About.css - Remaining files in queue: 25
+2025-08-21 10:10:42,062 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/About.css
+2025-08-21 10:10:42,281 - Knowledge - INFO - worker kw8 created with dedicated MongoDB connection (total: 8)
+2025-08-21 10:10:42,281 - Knowledge - INFO - knowledge worker kw8 start
+2025-08-21 10:10:42,282 - Knowledge - INFO - worker kw8 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/AppointmentForm.css from ingest queue
+2025-08-21 10:10:42,282 - Knowledge - INFO - Thread kw8 - File AppointmentForm.css - Remaining files in queue: 24
+2025-08-21 10:10:42,282 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/AppointmentForm.css
+2025-08-21 10:10:42,494 - Knowledge - INFO - worker kw9 created with dedicated MongoDB connection (total: 9)
+2025-08-21 10:10:42,494 - Knowledge - INFO - knowledge worker kw9 start
+2025-08-21 10:10:42,498 - Knowledge - INFO - worker kw9 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Info.css from ingest queue
+2025-08-21 10:10:42,499 - Knowledge - INFO - Thread kw9 - File Info.css - Remaining files in queue: 23
+2025-08-21 10:10:42,499 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Info.css
+2025-08-21 10:10:42,705 - Knowledge - INFO - worker kw10 created with dedicated MongoDB connection (total: 10)
+2025-08-21 10:10:42,705 - Knowledge - INFO - knowledge worker kw10 start
+2025-08-21 10:10:42,707 - Knowledge - INFO - worker kw10 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/BookAppointment.css from ingest queue
+2025-08-21 10:10:42,707 - Knowledge - INFO - Thread kw10 - File BookAppointment.css - Remaining files in queue: 22
+2025-08-21 10:10:42,707 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/BookAppointment.css
+2025-08-21 10:10:42,915 - Knowledge - INFO - worker kw11 created with dedicated MongoDB connection (total: 11)
+2025-08-21 10:10:42,916 - Knowledge - INFO - knowledge worker kw11 start
+2025-08-21 10:10:42,916 - Knowledge - INFO - worker kw11 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Footer.css from ingest queue
+2025-08-21 10:10:42,916 - Knowledge - INFO - Thread kw11 - File Footer.css - Remaining files in queue: 21
+2025-08-21 10:10:42,916 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Footer.css
+2025-08-21 10:10:43,055 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Doctors.css
+2025-08-21 10:10:43,055 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Doctors.css
+2025-08-21 10:10:43,055 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:43,055 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:43,055 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Doctors.css
+2025-08-21 10:10:43,060 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Reviews.css
+2025-08-21 10:10:43,060 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Reviews.css
+2025-08-21 10:10:43,103 - Knowledge - INFO - worker kw2 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/LegalDocs.css from ingest queue
+2025-08-21 10:10:43,103 - Knowledge - INFO - Thread kw2 - File LegalDocs.css - Remaining files in queue: 20
+2025-08-21 10:10:43,103 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/LegalDocs.css
+2025-08-21 10:10:43,103 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:43,103 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:43,103 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Reviews.css
+2025-08-21 10:10:43,143 - Knowledge - INFO - worker kw12 created with dedicated MongoDB connection (total: 12)
+2025-08-21 10:10:43,144 - Knowledge - INFO - knowledge worker kw12 start
+2025-08-21 10:10:43,184 - Knowledge - INFO - worker kw12 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/index.js from ingest queue
+2025-08-21 10:10:43,184 - Knowledge - INFO - Thread kw12 - File index.js - Remaining files in queue: 19
+2025-08-21 10:10:43,184 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/index.js
+2025-08-21 10:10:43,184 - Knowledge - INFO - worker kw5 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/AppointmentForm.js from ingest queue
+2025-08-21 10:10:43,185 - Knowledge - INFO - Thread kw5 - File AppointmentForm.js - Remaining files in queue: 18
+2025-08-21 10:10:43,185 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/AppointmentForm.js
+2025-08-21 10:10:43,189 - Knowledge - INFO - Fast-track processing for simple file: /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/index.js
+2025-08-21 10:10:43,189 - Knowledge - INFO - done fast ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/index.js
+2025-08-21 10:10:43,205 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/index.js
+2025-08-21 10:10:43,205 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:43,205 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:43,205 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/index.js
+2025-08-21 10:10:43,231 - Knowledge - INFO - worker kw12 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Doctors.js from ingest queue
+2025-08-21 10:10:43,231 - Knowledge - INFO - Thread kw12 - File Doctors.js - Remaining files in queue: 17
+2025-08-21 10:10:43,231 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Doctors.js
+2025-08-21 10:10:43,260 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/About.css
+2025-08-21 10:10:43,261 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/About.css
+2025-08-21 10:10:43,261 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:43,261 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:43,261 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/About.css
+2025-08-21 10:10:43,287 - Knowledge - INFO - worker kw7 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Footer.js from ingest queue
+2025-08-21 10:10:43,287 - Knowledge - INFO - Thread kw7 - File Footer.js - Remaining files in queue: 16
+2025-08-21 10:10:43,288 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Footer.js
+2025-08-21 10:10:43,357 - Knowledge - INFO - worker kw13 created with dedicated MongoDB connection (total: 13)
+2025-08-21 10:10:43,358 - Knowledge - INFO - knowledge worker kw13 start
+2025-08-21 10:10:43,364 - Knowledge - INFO - worker kw13 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Navbar.js from ingest queue
+2025-08-21 10:10:43,364 - Knowledge - INFO - Thread kw13 - File Navbar.js - Remaining files in queue: 15
+2025-08-21 10:10:43,364 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Navbar.js
+2025-08-21 10:10:43,421 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Hero.css
+2025-08-21 10:10:43,421 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Hero.css
+2025-08-21 10:10:43,421 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:43,421 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:43,421 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Hero.css
+2025-08-21 10:10:43,523 - Knowledge - INFO - worker kw6 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Hero.js from ingest queue
+2025-08-21 10:10:43,524 - Knowledge - INFO - Thread kw6 - File Hero.js - Remaining files in queue: 14
+2025-08-21 10:10:43,524 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Hero.js
+2025-08-21 10:10:43,579 - Knowledge - INFO - worker kw14 created with dedicated MongoDB connection (total: 14)
+2025-08-21 10:10:43,581 - Knowledge - INFO - knowledge worker kw14 start
+2025-08-21 10:10:43,586 - Knowledge - INFO - worker kw14 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Info.js from ingest queue
+2025-08-21 10:10:43,586 - Knowledge - INFO - Thread kw14 - File Info.js - Remaining files in queue: 13
+2025-08-21 10:10:43,587 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Info.js
+2025-08-21 10:10:43,796 - Knowledge - INFO - worker kw15 created with dedicated MongoDB connection (total: 15)
+2025-08-21 10:10:43,798 - Knowledge - INFO - knowledge worker kw15 start
+2025-08-21 10:10:43,799 - Knowledge - INFO - worker kw15 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/DoctorCard.js from ingest queue
+2025-08-21 10:10:43,799 - Knowledge - INFO - Thread kw15 - File DoctorCard.js - Remaining files in queue: 12
+2025-08-21 10:10:43,799 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/DoctorCard.js
+2025-08-21 10:10:43,920 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Info.css
+2025-08-21 10:10:43,920 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Info.css
+2025-08-21 10:10:43,921 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:43,921 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:43,921 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Info.css
+2025-08-21 10:10:44,018 - Knowledge - INFO - worker kw9 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/About.js from ingest queue
+2025-08-21 10:10:44,019 - Knowledge - INFO - Thread kw9 - File About.js - Remaining files in queue: 11
+2025-08-21 10:10:44,019 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/About.js
+2025-08-21 10:10:44,021 - Knowledge - INFO - worker kw16 created with dedicated MongoDB connection (total: 16)
+2025-08-21 10:10:44,023 - Knowledge - INFO - knowledge worker kw16 start
+2025-08-21 10:10:44,028 - Knowledge - INFO - worker kw16 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SubscribeNewsletter.js from ingest queue
+2025-08-21 10:10:44,028 - Knowledge - INFO - Thread kw16 - File SubscribeNewsletter.js - Remaining files in queue: 10
+2025-08-21 10:10:44,028 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SubscribeNewsletter.js
+2025-08-21 10:10:44,303 - Knowledge - INFO - worker kw17 created with dedicated MongoDB connection (total: 17)
+2025-08-21 10:10:44,311 - Knowledge - INFO - knowledge worker kw17 start
+2025-08-21 10:10:44,319 - Knowledge - INFO - worker kw17 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/InformationCard.js from ingest queue
+2025-08-21 10:10:44,319 - Knowledge - INFO - Thread kw17 - File InformationCard.js - Remaining files in queue: 9
+2025-08-21 10:10:44,319 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/InformationCard.js
+2025-08-21 10:10:44,322 - Knowledge - INFO - Fast-track processing for simple file: /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/InformationCard.js
+2025-08-21 10:10:44,323 - Knowledge - INFO - done fast ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/InformationCard.js
+2025-08-21 10:10:44,356 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/InformationCard.js
+2025-08-21 10:10:44,357 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:44,357 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:44,357 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/InformationCard.js
+2025-08-21 10:10:44,486 - Knowledge - INFO - worker kw17 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Reviews.js from ingest queue
+2025-08-21 10:10:44,486 - Knowledge - INFO - Thread kw17 - File Reviews.js - Remaining files in queue: 8
+2025-08-21 10:10:44,486 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Reviews.js
+2025-08-21 10:10:44,529 - Knowledge - INFO - worker kw18 created with dedicated MongoDB connection (total: 18)
+2025-08-21 10:10:44,532 - Knowledge - INFO - knowledge worker kw18 start
+2025-08-21 10:10:44,532 - Knowledge - INFO - worker kw18 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/BookAppointment.js from ingest queue
+2025-08-21 10:10:44,533 - Knowledge - INFO - Thread kw18 - File BookAppointment.js - Remaining files in queue: 7
+2025-08-21 10:10:44,533 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/BookAppointment.js
+2025-08-21 10:10:44,747 - Knowledge - INFO - worker kw19 created with dedicated MongoDB connection (total: 19)
+2025-08-21 10:10:44,756 - Knowledge - INFO - knowledge worker kw19 start
+2025-08-21 10:10:44,760 - Knowledge - INFO - worker kw19 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SolutionStep.js from ingest queue
+2025-08-21 10:10:44,760 - Knowledge - INFO - Thread kw19 - File SolutionStep.js - Remaining files in queue: 6
+2025-08-21 10:10:44,760 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SolutionStep.js
+2025-08-21 10:10:44,791 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Navbar.css
+2025-08-21 10:10:44,791 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Navbar.css
+2025-08-21 10:10:44,791 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:44,791 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:44,791 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Navbar.css
+2025-08-21 10:10:44,892 - Knowledge - INFO - worker kw4 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/LegalDocs.js from ingest queue
+2025-08-21 10:10:44,892 - Knowledge - INFO - Thread kw4 - File LegalDocs.js - Remaining files in queue: 5
+2025-08-21 10:10:44,892 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/LegalDocs.js
+2025-08-21 10:10:44,973 - Knowledge - INFO - worker kw20 created with dedicated MongoDB connection (total: 20)
+2025-08-21 10:10:44,987 - Knowledge - INFO - knowledge worker kw20 start
+2025-08-21 10:10:44,990 - Knowledge - INFO - worker kw20 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.js from ingest queue
+2025-08-21 10:10:44,990 - Knowledge - INFO - Thread kw20 - File App.js - Remaining files in queue: 4
+2025-08-21 10:10:44,990 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.js
+2025-08-21 10:10:45,204 - Knowledge - WARNING - High connection count: 21 connections active
+2025-08-21 10:10:45,204 - Knowledge - INFO - worker kw21 created with dedicated MongoDB connection (total: 21)
+2025-08-21 10:10:45,205 - Knowledge - INFO - knowledge worker kw21 start
+2025-08-21 10:10:45,207 - Knowledge - INFO - worker kw21 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/README.md from ingest queue
+2025-08-21 10:10:45,207 - Knowledge - INFO - Thread kw21 - File README.md - Remaining files in queue: 3
+2025-08-21 10:10:45,207 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/README.md
+2025-08-21 10:10:45,214 - Knowledge - INFO - Fast-track processing for simple file: /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/README.md
+2025-08-21 10:10:45,215 - Knowledge - INFO - done fast ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/README.md
+2025-08-21 10:10:45,215 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/README.md
+2025-08-21 10:10:45,215 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:45,215 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:45,215 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/README.md
+2025-08-21 10:10:45,302 - Knowledge - INFO - worker kw21 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/package.json from ingest queue
+2025-08-21 10:10:45,303 - Knowledge - INFO - Thread kw21 - File package.json - Remaining files in queue: 2
+2025-08-21 10:10:45,303 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/package.json
+2025-08-21 10:10:45,324 - Knowledge - INFO - Fast-track processing for simple file: /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/package.json
+2025-08-21 10:10:45,325 - Knowledge - INFO - done fast ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/package.json
+2025-08-21 10:10:45,325 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/package.json
+2025-08-21 10:10:45,325 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:45,325 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:45,325 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/package.json
+2025-08-21 10:10:45,406 - Knowledge - INFO - worker kw21 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/robots.txt from ingest queue
+2025-08-21 10:10:45,406 - Knowledge - INFO - Thread kw21 - File robots.txt - Remaining files in queue: 1
+2025-08-21 10:10:45,406 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/robots.txt
+2025-08-21 10:10:45,420 - Knowledge - INFO - Fast-track processing for simple file: /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/robots.txt
+2025-08-21 10:10:45,420 - Knowledge - INFO - done fast ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/robots.txt
+2025-08-21 10:10:45,420 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/robots.txt
+2025-08-21 10:10:45,420 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:45,420 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:45,420 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/robots.txt
+2025-08-21 10:10:45,428 - Knowledge - WARNING - High connection count: 22 connections active
+2025-08-21 10:10:45,428 - Knowledge - INFO - worker kw22 created with dedicated MongoDB connection (total: 22)
+2025-08-21 10:10:45,428 - Knowledge - INFO - knowledge worker kw22 start
+2025-08-21 10:10:45,508 - Knowledge - INFO - worker kw21 pull /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/index.html from ingest queue
+2025-08-21 10:10:45,508 - Knowledge - INFO - Thread kw21 - File index.html - Remaining files in queue: 0
+2025-08-21 10:10:45,508 - Knowledge - INFO - start ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/index.html
+2025-08-21 10:10:45,549 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Footer.css
+2025-08-21 10:10:45,550 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Footer.css
+2025-08-21 10:10:45,553 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:45,553 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:45,554 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/Footer.css
+2025-08-21 10:10:45,656 - Knowledge - WARNING - High connection count: 23 connections active
+2025-08-21 10:10:45,656 - Knowledge - INFO - worker kw23 created with dedicated MongoDB connection (total: 23)
+2025-08-21 10:10:45,657 - Knowledge - INFO - knowledge worker kw23 start
+2025-08-21 10:10:45,879 - Knowledge - WARNING - High connection count: 24 connections active
+2025-08-21 10:10:45,880 - Knowledge - INFO - worker kw24 created with dedicated MongoDB connection (total: 24)
+2025-08-21 10:10:45,881 - Knowledge - INFO - knowledge worker kw24 start
+2025-08-21 10:10:45,946 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/LegalDocs.css
+2025-08-21 10:10:45,947 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/LegalDocs.css
+2025-08-21 10:10:45,965 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:45,966 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:45,966 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/LegalDocs.css
+2025-08-21 10:10:46,100 - Knowledge - WARNING - High connection count: 25 connections active
+2025-08-21 10:10:46,100 - Knowledge - INFO - worker kw25 created with dedicated MongoDB connection (total: 25)
+2025-08-21 10:10:46,101 - Knowledge - INFO - knowledge worker kw25 start
+2025-08-21 10:10:46,703 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Scripts/reviews.js
+2025-08-21 10:10:46,752 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Scripts/reviews.js
+2025-08-21 10:10:46,767 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:46,767 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:46,768 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Scripts/reviews.js
+2025-08-21 10:10:47,524 - Knowledge - INFO - persist search terms embedding for src/Scripts/reviews.js
+2025-08-21 10:10:48,205 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/AppointmentForm.css
+2025-08-21 10:10:48,205 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/AppointmentForm.css
+2025-08-21 10:10:48,211 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:48,212 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:48,212 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/AppointmentForm.css
+2025-08-21 10:10:48,775 - Knowledge - INFO - persist search terms embedding for src/Styles/AppointmentForm.css
+2025-08-21 10:10:50,078 - Knowledge - ERROR - _ingest_file had exception litellm.APIConnectionError: APIConnectionError: OpenAIException - peer closed connection without sending complete message body (incomplete chunked read) processing file /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/index.html
+2025-08-21 10:10:50,078 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/index.html
+2025-08-21 10:10:50,078 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/index.html
+2025-08-21 10:10:50,108 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:50,108 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:50,108 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/public/index.html
+2025-08-21 10:10:51,610 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/BookAppointment.css
+2025-08-21 10:10:51,610 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/BookAppointment.css
+2025-08-21 10:10:51,631 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:51,631 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:51,632 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Styles/BookAppointment.css
+2025-08-21 10:10:51,632 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Home.js
+2025-08-21 10:10:51,662 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Home.js
+2025-08-21 10:10:51,747 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:51,747 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:51,747 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Pages/Home.js
+2025-08-21 10:10:52,062 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Info.js
+2025-08-21 10:10:52,117 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Info.js
+2025-08-21 10:10:52,222 - Knowledge - INFO - persist search terms embedding for src/Pages/Home.js
+2025-08-21 10:10:52,234 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:52,235 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:52,235 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Info.js
+2025-08-21 10:10:52,370 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Footer.js
+2025-08-21 10:10:52,432 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Footer.js
+2025-08-21 10:10:52,433 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Doctors.js
+2025-08-21 10:10:52,514 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Doctors.js
+2025-08-21 10:10:52,669 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/About.js
+2025-08-21 10:10:52,715 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/About.js
+2025-08-21 10:10:52,727 - Knowledge - INFO - persist search terms embedding for src/Components/Info.js
+2025-08-21 10:10:52,757 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:52,757 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:52,757 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Doctors.js
+2025-08-21 10:10:53,120 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SolutionStep.js
+2025-08-21 10:10:53,155 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SolutionStep.js
+2025-08-21 10:10:53,339 - Knowledge - INFO - persist search terms embedding for src/Components/Doctors.js
+2025-08-21 10:10:53,346 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:53,347 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:53,347 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Footer.js
+2025-08-21 10:10:53,362 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:53,362 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:53,363 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/About.js
+2025-08-21 10:10:53,765 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Reviews.js
+2025-08-21 10:10:53,815 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Navbar.js
+2025-08-21 10:10:53,816 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Reviews.js
+2025-08-21 10:10:53,851 - Knowledge - INFO - persist search terms embedding for src/Components/Footer.js
+2025-08-21 10:10:53,861 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Navbar.js
+2025-08-21 10:10:53,878 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/AppointmentForm.js
+2025-08-21 10:10:53,879 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:53,879 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:53,879 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Reviews.js
+2025-08-21 10:10:53,882 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:53,882 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:53,882 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SolutionStep.js
+2025-08-21 10:10:53,898 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:53,898 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:53,898 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Navbar.js
+2025-08-21 10:10:53,917 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/AppointmentForm.js
+2025-08-21 10:10:54,128 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/LegalDocs.js
+2025-08-21 10:10:54,181 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/LegalDocs.js
+2025-08-21 10:10:54,193 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/DoctorCard.js
+2025-08-21 10:10:54,229 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/DoctorCard.js
+2025-08-21 10:10:54,351 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SubscribeNewsletter.js
+2025-08-21 10:10:54,392 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SubscribeNewsletter.js
+2025-08-21 10:10:54,436 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.js
+2025-08-21 10:10:54,469 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Hero.js
+2025-08-21 10:10:54,474 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.js
+2025-08-21 10:10:54,487 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Hero.js
+2025-08-21 10:10:54,973 - Knowledge - INFO - persist search terms embedding for src/Components/SolutionStep.js
+2025-08-21 10:10:54,974 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:54,974 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:54,974 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/DoctorCard.js
+2025-08-21 10:10:54,974 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:54,974 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:54,974 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/App.js
+2025-08-21 10:10:54,974 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:54,974 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:54,974 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/Hero.js
+2025-08-21 10:10:55,277 - Knowledge - INFO - persist search terms embedding for src/Components/About.js
+2025-08-21 10:10:55,278 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:10:55,278 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:10:55,278 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/SubscribeNewsletter.js
+2025-08-21 10:10:59,014 - Knowledge - INFO - persist search terms embedding for src/Components/DoctorCard.js
+2025-08-21 10:10:59,374 - Knowledge - INFO - persist search terms embedding for src/App.js
+2025-08-21 10:10:59,918 - Knowledge - INFO - persist search terms embedding for src/Components/Hero.js
+2025-08-21 10:11:00,134 - Knowledge - ERROR - _ingest_file had exception litellm.APIConnectionError: APIConnectionError: OpenAIException - peer closed connection without sending complete message body (incomplete chunked read) processing file /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/BookAppointment.js
+2025-08-21 10:11:00,134 - Knowledge - INFO - done ingest for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/BookAppointment.js
+2025-08-21 10:11:00,150 - Knowledge - INFO - process ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/BookAppointment.js
+2025-08-21 10:11:00,233 - Knowledge - INFO - persist search terms embedding for src/Components/Navbar.js
+2025-08-21 10:11:00,594 - Knowledge - INFO - persist search terms embedding for src/Components/Reviews.js
+2025-08-21 10:11:00,953 - Knowledge - INFO - persist search terms embedding for src/Components/SubscribeNewsletter.js
+2025-08-21 10:11:00,955 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:11:00,955 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:11:00,955 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/AppointmentForm.js
+2025-08-21 10:11:00,956 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:11:00,956 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:11:00,956 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/LegalDocs.js
+2025-08-21 10:11:00,956 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Health-Plus-14749.git:kavia-main
+2025-08-21 10:11:00,956 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7c7cca4d6cc0>
+2025-08-21 10:11:00,956 - Knowledge - INFO - persist ingested knowledge for /home/prasanth/projects/kavia/graphnode-backend-api/data/T0004/14749/b2032ps/Health-Plus-14749/src/Components/BookAppointment.js
+2025-08-21 10:11:01,512 - Knowledge - INFO - persist search terms embedding for src/Components/LegalDocs.js
+2025-08-21 10:11:01,861 - Knowledge - INFO - persist search terms embedding for src/Components/AppointmentForm.js
+2025-08-21 10:11:01,864 - Knowledge - INFO - Knowledge creation complete
+2025-08-21 10:11:02,074 - Knowledge - INFO - Updating org costs, total cost: 0.0066006
+2025-08-21 10:11:08,173 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-21 10:11:08,180 - Knowledge - INFO - Knowledge saved to Redis successfully
